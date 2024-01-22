@@ -1,6 +1,6 @@
 # Steam Game Recommender
 
-Welcome to the Steam Game Recommender project! This application utilizes machine learning to recommend Steam games based on user preferences. The recommendation engine is powered by Python, NumPy, Pandas, TensorFlow, Flask, and Matplotlib. This project was made to learn the fundamentals of ML programming.
+Welcome to the Steam Game Recommender project! This application utilizes machine learning to recommend Steam games based on user preferences. Data is collected from public profiles using the Steam Web API. The recommendation engine is powered by Python, NumPy, Pandas, TensorFlow, Flask, and Matplotlib. This project was made to learn the fundamentals of ML programming.
 
 ## Features
 

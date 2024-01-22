@@ -1,0 +1,35 @@
+{
+  "response": {
+    "total_count": 4,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 1139,
+        "playtime_forever": 44520,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 1868140,
+        "name": "DAVE THE DIVER",
+        "playtime_2weeks": 750,
+        "playtime_forever": 1920,
+        "img_icon_url": "2f19d6889f66eae88e8b5a36727d560ec88a00cb"
+      },
+      {
+        "appid": 632360,
+        "name": "Risk of Rain 2",
+        "playtime_2weeks": 256,
+        "playtime_forever": 15285,
+        "img_icon_url": "0b809ac6f25e6570fecae5fc47bca0139a7bf70c"
+      },
+      {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "playtime_2weeks": 85,
+        "playtime_forever": 13407,
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e"
+      }
+    ]
+  }
+}
